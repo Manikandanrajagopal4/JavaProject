@@ -1,9 +1,9 @@
-                                                                    📚 Library Management System – Java OOP Console App
+                                                    📚 Library Management System – Java OOP Console App
 📌 Project Overview
             The Library Management System is a Java console-based application developed using Object-Oriented Programming (OOP) concepts. It provides role-based access for Users (Students/Teachers) and Librarians, allowing efficient book management including borrowing, returning, adding, and searching for books. The system supports simple file-based credential handling and in-memory book availability tracking.
 
-✨ Features
-🔑 Role-Based Login
+              ✨ Features
+              🔑 Role-Based Login
 
 Log in as a Librarian to manage books.
 Log in as a Student/Teacher to borrow or return books.
